@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/DmitryInke/DmitryInke/blob/main/bg.jpg">
+</p>
 
-<!--
-**DmitryInke/DmitryInke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Dima
+- 👀 I’m interested in Software development, programming on C, Python, Java and JavaScript
+- ☘️ I’m currently learning Bachelor's degree in Computer Science
+- 📫 How to reach me angranity1998@gmail.com or on LinkedIn Dmitry Inke
 
-Here are some ideas to get you started:
+Skills: C / Python / Java / JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryInke&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/DmitryInke)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DmitryInke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmitry-inke)
