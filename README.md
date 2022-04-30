@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Dima
 - 👀 I’m interested in Software development, programming on C, Python, Java and JavaScript
 - ☘️ I’m currently learning Bachelor's degree in Computer Science
-- 📫 How to reach me angranity1998@gmail.com or on LinkedIn Dmitry Inke
+- 📫 How to reach me angranity1998@gmail.com or on [LinkedIn](https://www.linkedin.com/in/dmitry-inke)
 
 Skills: C / Python / Java / JavaScript
 
@@ -14,4 +14,4 @@ Skills: C / Python / Java / JavaScript
 
 ![Profile views](https://gpvc.arturio.dev/DmitryInke)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DmitryInke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmitry-inke)
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/DmitryInke)  [<img src='https://img.icons8.com/external-justicon-flat-justicon/344/external-linkedin-social-media-justicon-flat-justicon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/dmitry-inke)
