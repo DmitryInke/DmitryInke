@@ -9,7 +9,7 @@
 
 Skills: C / Python / Java / TypeSrcipt / Flutter
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryInke&theme=neon&show_icons=true)  
 
 <h3 align="left">Connect with me:</h3>
