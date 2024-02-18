@@ -3,11 +3,11 @@
 </p>
 
 - 👋 Hi, I'm Dima.
-- 👀 I'm interested in software development and programming in C, Python, Java, TypeScript and Flutter.
+- 👀 I'm interested in software development and programming in C, Python, Java, TypeScript.
 - ☘️ I'm currently working at a FinTech startup as a Software Developer.
 - 📫 How to reach me angranity1998@gmail.com or on [LinkedIn](https://www.linkedin.com/in/dmitry-inke)
 
-Skills: C / Python / Java / TypeSrcipt / Flutter
+Skills: C / Python / Java / TypeSrcipt
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryInke&theme=neon&show_icons=true)  
