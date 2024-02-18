@@ -3,14 +3,13 @@
 </p>
 
 - 👋 Hi, I'm Dima.
-- 👀 I'm interested in software development and programming in C, Python, Java, TypeScript.
-- ☘️ I'm currently working at a FinTech startup as a Software Developer.
+- 👀 I'm interested in backend development
+- ☘️ As a former backend developer at the fintech startup Pi Crypto LTD, I am currently seeking new job opportunities and enhancing my backend technology skills through various courses.
 - 📫 How to reach me angranity1998@gmail.com or on [LinkedIn](https://www.linkedin.com/in/dmitry-inke)
 
-Skills: C / Python / Java / TypeSrcipt
+Skills: Python / TypeSrcipt / Nest.js / Node.js / GraphQL / Deno / AWS / Docker / Swagger / Redis / MongoDB / MySQL / PostgreSQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitryInke&theme=neon&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke&layout=compact)  
 
 <h3 align="left">Connect with me:</h3>
 
