@@ -4,7 +4,7 @@
 
 - 👋 Hi, I'm Dima.
 - 👀 I'm interested in backend development
-- ☘️ As a former backend developer at the fintech startup Pi Crypto LTD, I am currently seeking new job opportunities and enhancing my backend technology skills through various courses.
+- ☘️ Python Developer at Meta
 - 📫 How to reach me angranity1998@gmail.com or on [LinkedIn](https://www.linkedin.com/in/dmitry-inke)
 
 Skills: Python / TypeSrcipt / Nest.js / Node.js / GraphQL / Deno / AWS / Google Cloud / Kubernetes / Docker / Swagger / Redis / RabbitMQ / gRPC / MongoDB / MySQL / PostgreSQL
