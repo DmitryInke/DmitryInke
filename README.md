@@ -9,7 +9,7 @@
 
 Skills: Python / TypeSrcipt / Nest.js / Node.js / GraphQL / Deno / AWS / Google Cloud / Kubernetes / Docker / Swagger / Redis / RabbitMQ / gRPC / MongoDB / MySQL / PostgreSQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryInke&layout=compact)  
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=DmitryInke&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
 <h3 align="left">Connect with me:</h3>
 
